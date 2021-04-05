@@ -9,4 +9,5 @@ Kivy is a Python library for rapid development of applications that make use of 
 .kv allows you to create your widget tree in a declarative way and to bind widget properties to each other or to callbacks in a natural manner. It allows for very fast prototypes and agile changes to your UI. It also facilitates separating the logic of your application and its User Interface.
 
 pipe.py and pipe.kv are responsible for generating pipes with random opening on random position at y-axis.
+
 main.py and main.kv take cares of the rest of the game dynamics + elemets of the game.
