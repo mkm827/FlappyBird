@@ -11,3 +11,6 @@ Kivy is a Python library for rapid development of applications that make use of 
 pipe.py and pipe.kv are responsible for generating pipes with random opening on random position at y-axis.
 
 main.py and main.kv take cares of the rest of the game dynamics + elemets of the game.
+
+.py scripts were converted to .json later to run on android:  
+https://drive.google.com/file/d/16vezSMK_1traTS2ntks2GztJ0arFcyhV/view?usp=sharing
